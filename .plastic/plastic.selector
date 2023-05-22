@@ -1,0 +1,4 @@
+repository "Zelta@johnsonwq@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
